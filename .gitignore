@@ -1,0 +1,10 @@
+# Composer
+/vendor
+/composer.lock
+
+# Babel Test (Installation)
+/tests/BabelDirectory/node_modules
+/tests/BabelDirectory/package-lock.json
+
+# IDE
+/.idea
